@@ -1,18 +1,6 @@
 package com.alarcon.myapplication.Class
-
- data class Borrower(
+data class Borrower(
+    var libraryCardNumber: String,
     override var name: String,
-    override var phone: String,
-    val libraryCardNumber: String
+    override var phone: String
 ) : Person
-
-
-
-
-
-
-
-
-
-
-

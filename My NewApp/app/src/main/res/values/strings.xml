@@ -1,0 +1,49 @@
+<resources>
+<!--        <string name="app_name">My App</string>-->
+        <string name="firestore_title">Firestore</string>
+        <string name="firestore_subtitle">Save your photos and files to\nFirestore and access them from any\ndevice, anywhere.</string>
+<!--        <string name="logo_description">Firestore Logo</string>-->
+       <string name="logo_description">Logo for my app</string>-->
+
+
+                <string name="create_account_title">Create your Account</string>
+                <string name="create_account_subtitle">Let\'s create an account to save your files</string>
+
+
+                <string name="term_conditions_text">I agree with the Terms &amp; Conditions</string>
+                <string name="sign_up_button_text">Sign Up</string>
+                <string name="login_prompt_text">Already have an account? Log In</string>
+                <string name="login_button_text">Log In</string>
+
+       <string name="sigh_up">Sigh Up</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="remember_me">Remember me</string>
+        <string name="registration">Registration</string>
+    <string name="successful">Successful!</string>
+    <string name="sign_in">Sign In</string>
+       <string name="firestore">Firestore</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="log_in"><![CDATA[Log in -->]]></string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+
+
+    <string name="app_name">MyNewApp</string>
+    <string name="activity_sign_up">Activity Sign Up</string>
+
+    <string name="terms_text_description">By using Firestore you agree to our terms and conditions.</string>
+
+    <string name="terms_and_conditions_text_description">Terms and conditions for using Firestore</string>
+    <string name="full_name">Full name</string>
+
+    <string name="let_s_create_an_account_to_save_your_file">Let\'s create an account to save your files</string>
+    <string name="email">Your Email</string>
+    <string name="Password">Your Password</string>
+    <string name="Signup">Sign Up</string>
+    <string name="let_s_create_an_account_to_save_your_file_n_n_n_n_n_n">Lets create an account to save your file</string>
+
+
+    ...
+
+</resources>

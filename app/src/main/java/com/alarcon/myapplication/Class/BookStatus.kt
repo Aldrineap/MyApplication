@@ -1,8 +1,6 @@
 package com.alarcon.myapplication.Class
 
 enum class BookStatus {
-    AVAILABLE,
-    ON_LOAN
-}
-
-
+        AVAILABLE,
+        ON_LOAN
+    }

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="facebook_button" type="id" />
+    <item name="passwordEditText" type="id">Your Password</item>
+    <item name="emailEditText" type="id" />
+    <item name="signupButton" type="id">Sign Up</item>
+
+</resources>
